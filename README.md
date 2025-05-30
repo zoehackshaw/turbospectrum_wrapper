@@ -9,6 +9,9 @@ Main things to edit when downloading and running for yourself:
 - specpath on 342
 - the BACCHUS paths on 375 - 406
 
+## Quick Start:
+1. In the same directory as this file `ipython`
+
 ## To Do for future Zoe:
 - make generalizable
 - probably update to a python version from this century
