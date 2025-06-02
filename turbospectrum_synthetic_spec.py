@@ -140,7 +140,7 @@ def make_babsmabysn_file(lammin=3700,lammax=5000,deltalam=0.01, modelname='5777g
 	|
 	--------------------------------------------------------------------------------
 	'''
-	sphere = kwargs.get('sphere','F'
+	sphere = kwargs.get('sphere','F')
 	turbvel=kwargs.get('turbvel',1.5)
 	T, g, metal = kwargs.get('stellarpar')
 	modpath = kwargs.get('modpath',modpath)
